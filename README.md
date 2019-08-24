@@ -3,7 +3,7 @@ Clover Bootloader, Kexts, config and ACPI patches for ThinkPad T460s.
 Based on tluck's repo: https://github.com/tluck/Lenovo-T460-Clover
 
 ## What's different from tluck's Clover config
-- The touchpad driver was changed to acidanthera's VodooPS2 (https://github.com/acidanthera/VoodooPS2). This driver enables multitouch gestures on the Synaptic touchpad (but TrackPoint and top buttons do not work)
+- The touchpad driver was changed to acidanthera's VodooPS2 (https://github.com/acidanthera/VoodooPS2). This driver enables multitouch gestures on the Synaptic touchpad (but top buttons do not work)
 - Clover was updated to support macOS Catalina
 - The other kexts were updated
 - Every kext or patch associated with the DW1560 was removed
