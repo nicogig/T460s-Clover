@@ -9,6 +9,7 @@ Based on tluck's repo: https://github.com/tluck/Lenovo-T460-Clover
 - Every kext or patch associated with the DW1560 was removed
 - Added support to the DW1820a Combo Card
 - Legacy_Sierra_QMI was added to support the internal modem
+- Added CPUFriend to bring base frequency down to 800MHz.
 - Added the old Mac Boot chime (because it reminds me of my old iBook. and it's cute.)
 
 ## What's working
