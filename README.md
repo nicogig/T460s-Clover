@@ -2,6 +2,14 @@
 Clover Bootloader, Kexts, config and ACPI patches for ThinkPad T460s.
 Based on tluck's repo: https://github.com/tluck/Lenovo-T460-Clover
 
+## This Repo is currently INACTIVE
+
+Just a quick warning before you download and use my repo!
+This repo is currently INACTIVE and hasn't been updated in a while (University work has definitely taken a toll on me this year!). I won't be updating this repo until at least June 11th. After that, I will focus on porting this setup to OpenCore.
+
+Thank you to everyone who downloaded, forked, and starred this repo. I hope you'll stick around for the OpenCore port!
+
+
 ## What's different from tluck's Clover config
 - The touchpad driver was changed to acidanthera's VodooPS2 (https://github.com/acidanthera/VoodooPS2). This driver enables multitouch gestures on the Synaptic touchpad (but top buttons do not work)
 - Clover was updated to support macOS Catalina
