@@ -2,10 +2,14 @@
 Clover Bootloader, Kexts, config and ACPI patches for ThinkPad T460s.
 Based on tluck's repo: https://github.com/tluck/Lenovo-T460-Clover
 
+## Switch to OpenCore
+
+Please consider switching your current setup to OpenCore. I reccomend reinstalling macOS while switching, but you can definitely switch without wiping, as it has been done before. You can find my repo here: https://github.com/nicogig/Thinkpad-T460s-macOS-OpenCore
+
 ## This Repo is currently INACTIVE
 
 Just a quick warning before you download and use my repo!
-This repo is currently INACTIVE and hasn't been updated in a while (University work has definitely taken a toll on me this year!). I won't be updating this repo until at least June 11th. After that, I will focus on porting this setup to OpenCore.
+This repo is currently INACTIVE and hasn't been updated in a while (University work has definitely taken a toll on me this year!).
 
 Thank you to everyone who downloaded, forked, and starred this repo. I hope you'll stick around for the OpenCore port!
 
